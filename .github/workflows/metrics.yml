@@ -1,7 +1,7 @@
 name: update profile
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   metrics:
