@@ -20,4 +20,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: true
           plugin_languages_details: lines, percentage
-          plugin_languages_recent_days: 1460
+          plugin_languages_skipped: marc-weber1/godot
