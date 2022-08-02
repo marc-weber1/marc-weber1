@@ -1,0 +1,19 @@
+name: update profile
+on:
+  workflow_dispatch:
+  schedule: [{cron: "0 0 * * 0"}] # Weekly
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          committer_message: Update metrics
+          plugin_languages: true
+          plugin_languages_indepth: true
+          plugin_languages_details: lines, percentage
