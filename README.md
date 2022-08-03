@@ -4,7 +4,11 @@
 
 Hi! I'm a coder of 8 years and a contractor since 2017, and while professionally I'm usually a backend and cloud developer my skills are extremely varied. Most of my work is under NDA, but feel free to look below for a bit of what I've done outside of work, but most of these will probably be unfinished since I'm typically busy with school or work contracts.
 
+[RESUME](/Resume 2022.pdf)
+
 ![Metrics](/metrics.svg)
+
+![Solutions-Architect](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 
 ---
 
