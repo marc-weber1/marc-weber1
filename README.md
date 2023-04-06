@@ -4,7 +4,7 @@
 
 Hi! I'm a coder of 8 years and a contractor since 2017, and while professionally I'm usually a backend and cloud developer my skills are extremely varied. Most of my work is under NDA, but feel free to look below for a bit of what I've done outside of work, but most of these will probably be unfinished since I'm typically busy with school or work contracts.
 
-[RESUME](/Resume2022.pdf)
+[RESUME](/Resume2023.pdf)
 
 ![Metrics](/metrics.svg)
 
@@ -36,7 +36,7 @@ https://github.com/lv2/pugl/pull/29 - Windows implementation of timers for PUGL,
 
 https://github.com/marc-weber1/juce-opengl-example - OpenGL component system for JUCE
 
-https://github.com/marc-weber1/FacadeWaveshaper - Originally meant to waveshape sound with a bezier curve (i.e. simple sample-in sample-out function), but mostly just an oscilloscope for the moment
+https://github.com/marc-weber1/FacadeSaturator - Originally meant to waveshape sound with a bezier curve (i.e. simple sample-in sample-out function), but mostly just an oscilloscope for the moment
 
 https://github.com/marc-weber1/skybox-painter - Very simple substance painter-like demo for painting on cubemaps in openGL
 
